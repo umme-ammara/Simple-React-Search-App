@@ -1,0 +1,35 @@
+.heading-style {
+	font-size: 25px;
+    font-family: arial;
+	padding: 15px 0;
+	color: rgb(91, 91, 91);
+	text-align: center;
+}
+
+.container {
+	margin: 25px auto;
+	width: 100%;
+	max-width: 800px;
+}
+
+.container input {
+	width: 100%;
+	padding: 15px;
+	font-size: 20px;
+	color: rgb(91, 91, 91);
+	box-sizing: border-box;
+	outline: none;
+}
+
+.search-label {
+	position: relative;
+}
+
+.results-container {
+	display: flex;
+    flex-flow: wrap;
+	
+}
+
+
+
